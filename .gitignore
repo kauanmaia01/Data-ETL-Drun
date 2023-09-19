@@ -1,0 +1,5 @@
+# General
+image
+*.json
+venv
+__pycache__
