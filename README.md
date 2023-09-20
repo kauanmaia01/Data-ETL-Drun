@@ -4,7 +4,7 @@ Este repositório faz parte do meu projeto pessoal, que tem como objetivo criar 
 
 **Motivação e Contexto do Projeto**: [Leia mais](linkAqui)
 
-**Visualize o Dashboard**: [Acesse o Dashboard](linkAqui)
+**Visualize o Dashboard**: [Acesse o Dashboard](https://lookerstudio.google.com/reporting/3fa5a5ec-497e-488a-a827-2be66333ee10)
 
 ![Fluxograma do Pipeline](image/Process.png)
 
