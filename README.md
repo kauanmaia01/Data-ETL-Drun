@@ -1,6 +1,6 @@
 # Pipeline de Dados Drun
 
-Este repositório faz parte do meu projeto pessoal, que tem como objetivo criar um pipeline de dados simples e eficiente. O pipeline envolve várias etapas, incluindo manipulação de dados com a biblioteca Pandas, otimização, transformação, carregamento em um data warehouse e o desenvolvimento de um dashboard interativo.
+Este repositório faz parte do meu projeto pessoal, que tem como objetivo fazer processo ETL simples e eficiente. O processo de ETL envolve várias etapas, incluindo manipulação de dados com a biblioteca Pandas, otimização, transformação, carregamento em um data warehouse e o desenvolvimento de um dashboard interativo.
 
 **Motivação e Contexto do Projeto**: [Leia mais](linkAqui)
 
@@ -10,7 +10,7 @@ Este repositório faz parte do meu projeto pessoal, que tem como objetivo criar 
 
 ## Estrutura do Repositório
 
-O repositório está organizado em várias pastas, cada uma desempenhando um papel importante no pipeline de dados:
+O repositório está organizado em várias pastas, cada uma desempenhando um papel importante do ETL:
 
 ### 1. Pasta "data_transformation"
 
