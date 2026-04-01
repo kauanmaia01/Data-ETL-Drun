@@ -2,7 +2,7 @@ import pandas_gbq
 from google.oauth2 import service_account
 
 
-key_file_path = "../GBQ.json" # Chave de contas de serviço
+key_file_path = "../GBQ.json"
 
 SCOPES = [
     'https://www.googleapis.com/auth/cloud-platform'
